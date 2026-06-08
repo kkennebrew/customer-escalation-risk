@@ -4,7 +4,7 @@ A multi-model classification and clustering project that predicts customer servi
 
 ## Overview
 
-Using a dataset of customer service interactions, this project builds and compares four classification models to predict whether a customer interaction will escalate. A secondary clustering analysis is then applied to discover natural customer groupings and verify their alignment with escalation behaviour — without using the target label.
+Using a dataset of customer service interactions, this project builds and compares four classification models to predict whether a customer interaction will escalate. A secondary clustering analysis is then applied to discover natural customer groupings and verify their alignment with escalation behaviour, without using the target label.
 
 ## Models built
 
